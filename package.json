@@ -1,0 +1,28 @@
+{
+  "name": "returntorobots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciswalsh/returnToRobots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciswalsh/returnToRobots/issues"
+  },
+  "homepage": "https://github.com/franciswalsh/returnToRobots#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.1",
+    "mongodb": "^2.2.30",
+    "mongoose": "^4.11.1",
+    "mustache-express": "^1.2.5"
+  }
+}

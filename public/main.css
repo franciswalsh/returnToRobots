@@ -1,0 +1,13 @@
+body {
+
+}
+#mainContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+.robotContainer {
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+  width: 24%;
+}
